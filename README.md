@@ -32,13 +32,16 @@ flowers in the training data and taking a majority vote.
   which look similar.
 
 ### Terminal Output
-![Terminal Output](output.png)
+![Terminal Output](Screenshot%20%2812%29.png)
+
+### Code Output
+![Code Output](Screenshot%20%2813%29.png)
 
 ### Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
 
 ### Choosing K
-![K Graph](k_graph.png)
+![K Graph](k_selection.png)
 
 ## How to Run
 
