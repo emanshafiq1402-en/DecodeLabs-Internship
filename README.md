@@ -31,10 +31,10 @@ flowers in the training data and taking a majority vote.
 - Setosa was classified perfectly. The few mistakes were between Versicolor and Virginica,
   which look similar.
 
-### Terminal Output
+### Terminal Output(part 1)
 ![Terminal Output](Screenshot%20%2812%29.png)
 
-### Code Output
+###  Terminal Output(part 2)
 ![Code Output](Screenshot%20%2813%29.png)
 
 ### Confusion Matrix
